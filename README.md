@@ -1,6 +1,6 @@
 # Curriculum Vitae of Failures
    
-Most of our lives are made up of small failures, but those failures are often invisible, while successes are always visible. In this way, I decided to register the curriculum of my failures to "suit the balance". This curriculum was based on the [CV of Failures from Johannes Haushofer (2016)](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)". _Success is built on 99 percent failure._" (Soichiro Honda) - Enjoy!  
+Most of our lives are made up of small failures, but those failures are often invisible, while successes are always visible. In this way, I decided to register the curriculum of my failures to "suit the balance". This curriculum was based on the [CV of Failures from Johannes Haushofer (2016)](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf). "_Success is built on 99 percent failure._" (Soichiro Honda) - Enjoy!  
    
 ---
 ## Content
