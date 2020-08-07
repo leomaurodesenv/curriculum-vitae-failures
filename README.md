@@ -5,6 +5,7 @@ Most of our lives are made up of small failures, but those failures are often in
 ---
 ## Content
 -   My Curriculum Vitae of Failures - [Online](https://www.overleaf.com/read/jhtgzndwdffj).
+-   My "real" Curriculum Vitae - [GitHub](https://github.com/leomaurodesenv/curriculum-vitae), [Online](https://www.overleaf.com/read/pxwngvmqqdcw).
 -   Copy this repository and create your CV.
    
 ---
