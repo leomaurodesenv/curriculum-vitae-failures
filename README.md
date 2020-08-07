@@ -1,38 +1,12 @@
-# Curriculum Vitae in Latex
+# Curriculum Vitae of Failures
    
-In this repository, it is stored my curriculum vitae (see in [Overleaf](https://www.overleaf.com/read/pxwngvmqqdcw)).  
-Some additions to *moderncv.sty* in `moderncvplus.sty`.  
-New tags to stylize your curriculum vitae.  
-This is a **public** style, you can edit and share.  
-Enjoy!  
+Most of our lives are made up of small failures, but those failures are often invisible, while successes are always visible. In this way, I decided to register the curriculum of my failures to "suit the balance". This curriculum was based on the [CV of Failures from Johannes Haushofer (2016)](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)". _Success is built on 99 percent failure._" (Soichiro Honda) - Enjoy!  
    
 ---
-## New tags
-
-```tex
-% Align text/content to moderncv.sty
-\cvtext{}
-
-% Align double column to moderncv.sty
-\cvdoublecolumn{}{}
-
-% Stylized reference to moderncv.sty
-\cvreference{name}
-    {department}
-    {institution}
-    {address}
-    {email}
-    {phone}
-
-```   
-   
----
-## Folders
-   
--   `latex/`: codes and my curriculum vitae.
+## Content
+-   My Curriculum Vitae of Failures - [Online](https://www.overleaf.com/read/jhtgzndwdffj).
+-   Copy this repository and create your CV.
    
 ---
 ## Also look ~
-
--   [License MIT](LICENSE)
 -   Create by Leonardo Mauro ~ [leomaurodesenv](https://github.com/leomaurodesenv/)
